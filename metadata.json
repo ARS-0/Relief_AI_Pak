@@ -1,0 +1,6 @@
+{
+  "name": "Relief AI Pakistan",
+  "description": "AI-powered emergency guidance, verified disaster relief resources, and safety tools across Pakistan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
