@@ -164,10 +164,3 @@ Relief AI Pakistan provides general safety information and is **not** a substitu
 
 Issues and pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-Add a license for the repository (for example MIT) and update this section.
-
-## Authors
-
-- **[Your Name]** ([@your-github-username](https://github.com/your-github-username))
